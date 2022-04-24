@@ -157,3 +157,4 @@ print(res)
 
 ## License
 MIT
+# jubilant-coincheck
